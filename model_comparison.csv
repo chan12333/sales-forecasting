@@ -1,0 +1,5 @@
+,MAPE %,RMSE
+LightGBM (all 500 series),12.69,7.74
+Seasonal naive (same weekday last year),17.69,10.9
+Weekday average (last 8 weeks),26.91,15.74
+28-day moving average,27.3,15.58
